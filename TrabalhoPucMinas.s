@@ -19,7 +19,7 @@ main: 		addi $sp,$sp,-24
 		addi $s2,$t2,2
 		addi $s3,$t3,3
   		addi $s4,$t4,4			
-   		#imprimindo na tela mensagem de bem-vindo
+   		#Imprimindo na tela mensagem de bem-vindo
 		li $v0,4
    		la $a0,bemvindo
    		syscall
