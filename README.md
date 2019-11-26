@@ -6,4 +6,5 @@ Desenvolvida uma calculadora com operações básicas na linguagem Assembly.
 * Subtração
 * Divisão
 * Multiplicação
- Vídeo da aplicação: https://www.youtube.com/watch?v=uhHoicg5xoM
+
+Vídeo da aplicação: https://www.youtube.com/watch?v=uhHoicg5xoM
