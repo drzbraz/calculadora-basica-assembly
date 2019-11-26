@@ -15,10 +15,10 @@ main: 		addi $sp,$sp,-24
 		sw $a0,16($sp)
 		sw $ra,20($sp)  
 		#Atribuindo valores aos registradores	   	
-		addi $s1,$t1,1
-		addi $s2,$t2,2
-		addi $s3,$t3,3
-  		addi $s4,$t4,4			
+		addi $s1,$zero,1
+		addi $s2,$zero,2
+		addi $s3,$zero,3
+  		addi $s4,$zero,4			
    		#Imprimindo na tela mensagem de bem-vindo
 		li $v0,4
    		la $a0,bemvindo
